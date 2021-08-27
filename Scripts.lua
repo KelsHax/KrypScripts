@@ -10,7 +10,7 @@ if game.PlaceId == 1499872953 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/KangKung01/KryptonHub-2.0.0/main/AllScript/4520749081.lua"))();
   elseif game.PlaceId == 5170554573 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/KangKung01/KryptonHub-2.0.0/main/AllScript/5170554573.lua"))();
-  elseif game.PlaceId == 6961830235 then
+  elseif game.PlaceId == 5303541547 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/KangKung01/KryptonHub-2.0.0/main/AllScript/5303541547.lua"))();
   elseif game.PlaceId == 5835263912 then
   loadstring(game:HttpGet("https://raw.githubusercontent.com/KangKung01/KryptonHub-2.0.0/main/AllScript/5835263912.lua"))();
